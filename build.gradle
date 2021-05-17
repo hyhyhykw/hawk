@@ -52,6 +52,5 @@ ext {
 }
 
 ext.deps = [
-    gson          : 'com.google.code.gson:gson:2.8.6',
-    conceal       : 'com.facebook.conceal:conceal:2.0.2@aar'
+    gson          : 'com.google.code.gson:gson:2.8.6'
 ]
